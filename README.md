@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mrclancey
-- 👀 I’m interested in JavaScript and Python
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in JavaScript, C# and Python
 - 💞️ I’m a Computer Science Teacher in Southern Utah
 
 <!---
